@@ -1,9 +1,7 @@
-Sure! Here's a README for your website:
-
 Apple Vision Pro Overview
 This project is a web page showcasing Apple's Vision Pro, incorporating various videos, images, and textual content across multiple sections to highlight its features and design.
 
-Table of Contents
+Table of Contents:-
 Demo
 Features
 Technologies Used
