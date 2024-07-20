@@ -17,7 +17,7 @@ Contributing
 License
 
 Demo
-Check out the live demo here ([link to your live demo if available](https://kamal-987123.github.io/Apple-Web-Clone/)).
+Check out the live demo here ([APPLE HOMEPAGE CLONE ](https://kamal-987123.github.io/Apple-Web-Clone/)).
 
 Features
 Seamless integration of videos and images to highlight product features
