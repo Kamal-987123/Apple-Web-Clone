@@ -1,16 +1,23 @@
-Apple Vision Pro Overview
+Apple Vision Pro Overview :- 
 This project is a web page showcasing Apple's Vision Pro, incorporating various videos, images, and textual content across multiple sections to highlight its features and design.
 
 Table of Contents:-
 Demo
+
 Features
+
 Technologies Used
+
 Installation
+
 Usage
+
 Contributing
+
 License
+
 Demo
-Check out the live demo here (link to your live demo if available).
+Check out the live demo here ([link to your live demo if available](https://kamal-987123.github.io/Apple-Web-Clone/)).
 
 Features
 Seamless integration of videos and images to highlight product features
@@ -22,15 +29,12 @@ HTML5
 CSS3
 JavaScript
 Locomotive Scroll
-GSAP
+
 Installation
 Clone the repository:
 bash
-Copy code
-git clone https://github.com/yourusername/apple-vision-pro-overview.git
 Navigate to the project directory:
 bash
-Copy code
 cd apple-vision-pro-overview
 Usage
 Open index.html in your web browser to view the website.
